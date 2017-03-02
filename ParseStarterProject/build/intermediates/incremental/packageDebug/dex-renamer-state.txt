@@ -1,0 +1,7 @@
+#Thu Mar 02 07:25:37 IST 2017
+base.0=C\:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
+base.1=C\:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=C\:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

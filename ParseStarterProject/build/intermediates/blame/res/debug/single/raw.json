@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-tagmanager-v4-impl\\10.0.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Android Big Projects\\Uber_Clones\\Uber_Second_Rename\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-tagmanager-v4-impl\\10.0.1\\res\\raw\\gtm_analytics"
+    }
+]
